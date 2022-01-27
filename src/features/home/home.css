@@ -1,0 +1,23 @@
+.home-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.trade-list {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.trade-list h1 {
+  font-size: 3em;
+  width: 100%;
+  margin-left: 0.7em;
+}
+.trade-link {
+  font-size: 2em;
+  color: gray;
+  text-decoration: none;
+  width: 40%;
+  margin-left: 1em;
+  margin-right: 1em;
+}
